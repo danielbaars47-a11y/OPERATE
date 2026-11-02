@@ -1,0 +1,170 @@
+[
+  {
+    "file": "analysis/01_prepare_gallstone_step1.py",
+    "sha256": "51c11113e8b7e86afb977e57bb308f449229badbea3e06bad1cf1c385c8d9be9"
+  },
+  {
+    "file": "analysis/02_clean_operate_master.py",
+    "sha256": "d11ddc1a233520e97cd0de4f35460ecc0c3b9a7ea749d1d70c21f83e84bad7e5"
+  },
+  {
+    "file": "analysis/03_prepare_operate_first_visit.py",
+    "sha256": "4ad0d1bac3a37876d3e890627fcd59eeee98d5c8394c559acd0d0cc86b06afe4"
+  },
+  {
+    "file": "analysis/04_audit_operate_linkage.py",
+    "sha256": "83251af4da8c828c481596ddd0cdda53de7688b620b0a1b7e9d77c018a3eec5b"
+  },
+  {
+    "file": "analysis/05_audit_outcome_ascertainment.py",
+    "sha256": "3d7d9dae2e18b8d353fd3c248a934159cb0e0ec97c5d3e009c2315b6a668e733"
+  },
+  {
+    "file": "analysis/06_validate_operate_master.py",
+    "sha256": "70bb94f1dcb98a7feb5f084cf953f6ba1b69da4677cb5f501b1b9ae24236ce98"
+  },
+  {
+    "file": "analysis/07_build_operate_handover.py",
+    "sha256": "c9be39258604dcac602f6cbca89c56e9057a1b9aafe88f98ea9143c533affbc2"
+  },
+  {
+    "file": "analysis/08_build_codebook_v2.py",
+    "sha256": "e64db0275467b5bc22f23d21b7a25412de8864145d4830082f6d2265958919ff"
+  },
+  {
+    "file": "analysis/09_prepare_first_visit_v2.py",
+    "sha256": "5f341bdc1c7f66e46d045b07f2b140c65c989a529a0679e07961459813bec3ec"
+  },
+  {
+    "file": "analysis/10_impute_first_visit_v2.R",
+    "sha256": "7131909f42e4f39879b349bab84e8b9983f3fdbd06b69be4e2be7e7c6f741b95"
+  },
+  {
+    "file": "analysis/10_test_imputation_structural.R",
+    "sha256": "0049dbffd0fe06d313a39792bb744d2bda2e133f160a253d6f09dce2b1d742ec"
+  },
+  {
+    "file": "analysis/10_test_imputation_synthetic.R",
+    "sha256": "3d7ac59aebc8c789484f4e815efb18dba8ed79040c64d8d28a1724957ea22a74"
+  },
+  {
+    "file": "analysis/11_validate_v2.py",
+    "sha256": "6744a628761f6ba2a83c6614f40c16e2fa937850c56641d0a8ab6f058a9d437d"
+  },
+  {
+    "file": "analysis/12_package_first_visit_v2.py",
+    "sha256": "bc982ca9c7ae86533967d3d00601733add2b95a4644da7cac5d9acf50544a1fc"
+  },
+  {
+    "file": "analysis/13_import_castor_metadata.py",
+    "sha256": "492657443da4393c7b84cd35041260a5082316ff61fb49e7da291466a716433c"
+  },
+  {
+    "file": "analysis/14_prepare_first_visit_v3.py",
+    "sha256": "ba959d319e70fd03a851206abe74adb280fa2cb7c2878552dba8a5dcae9f2e9f"
+  },
+  {
+    "file": "analysis/15_validate_saved_mice_v3.R",
+    "sha256": "3bf27c382b06bb7d9920e1a6684eec52fa7aa955ae2b4b8448069c5ac0bed366"
+  },
+  {
+    "file": "analysis/15_validate_v3.py",
+    "sha256": "1d7e379a4c055e8c2c95240d9efa743cc498dc4e4665b5ca78141fd81c83697d"
+  },
+  {
+    "file": "analysis/16_package_first_visit_v3.py",
+    "sha256": "0de57beb5261978ecf9aaec1b03be7ac1b9ab40b29adf3ded0d2466484348440"
+  },
+  {
+    "file": "analysis/17_repair_imputation_change_masks.R",
+    "sha256": "d0ab0772f5d18a1e755917d501270fe1306398b942fb2dfa483415851aad5ff8"
+  },
+  {
+    "file": "analysis/18_clinical_review_queue.py",
+    "sha256": "29a974a786c50f2a1a108ef801e9ac4ee672bf666813f41505f4b5c17a4c6f35"
+  },
+  {
+    "file": "analysis/20_remaining_review_overview.py",
+    "sha256": "4186daebc441e30247c5ff8fd9d7a145ff995aecac146f16663218b3a469dfa7"
+  },
+  {
+    "file": "analysis/21_extract_cohort_review_rows.py",
+    "sha256": "d869a36af4abc2c6096ff70895610fc8100708d1eab11390bfa9fd3428ecbbcd"
+  },
+  {
+    "file": "analysis/22_prepare_review_workbook.py",
+    "sha256": "a397eb36294e078a7fac4100cf0456d7d63493307a92c9074c52e8bb68dc2f4c"
+  },
+  {
+    "file": "analysis/23_freeze_analysis.py",
+    "sha256": "5cfcdf2472800cfa6b9a685063b8c0d3d571bbaf90e6fbd8221aa050e1b2c43f"
+  },
+  {
+    "file": "analysis/24_model_pipeline.R",
+    "sha256": "3eebd1b3a7d6b6976ea691c315a664ee10e882f2b70eca33d3b5ac0baebf5e0a"
+  },
+  {
+    "file": "analysis/24_model_postprocess.R",
+    "sha256": "f9b83ec10efb8f1df80a7f04a9520ac10af1c34fcb4a97e75f7634c94fb76d39"
+  },
+  {
+    "file": "analysis/24_model_prepare_inputs.py",
+    "sha256": "753ee1d61878e83f2e813fce015725a046e91e3978b90623eae3e5929651ac8b"
+  },
+  {
+    "file": "analysis/24_model_render_figures.R",
+    "sha256": "9d0e5b31dd90f267c5775ab5a1583157841d1e482089bcc6c16079d1cfb92d9f"
+  },
+  {
+    "file": "analysis/24_model_summarize.py",
+    "sha256": "519383f5f4dfec51170d88681ed62d4c649a8530517ce80f7dd86887b8a9e061"
+  },
+  {
+    "file": "analysis/24_model_synthetic_test.R",
+    "sha256": "7bdfafc7ecf6ba01fa1cbd1584fb0d3370075f2f12b47a9863e36a7b10a7f3c1"
+  },
+  {
+    "file": "analysis/25_describe_current_cohorts.py",
+    "sha256": "51565db8b49323d3dee8baa28c7f600b9d9f2777d726176b37371cab39e90b8c"
+  },
+  {
+    "file": "analysis/26_build_analysis_report.py",
+    "sha256": "d46bfa94057568103d5fb3f6d15825b797a33818826b0f9e95265f2963bf346f"
+  },
+  {
+    "file": "analysis/27_statistical_review_models.R",
+    "sha256": "ab34d0eed49cc96f2e28af44c0cd873e9550bea8eb32364b6d8874cdf1f458f3"
+  },
+  {
+    "file": "analysis/28_forestplot_SEH_lab.R",
+    "sha256": "90d93a7e0d441e4d5e9a5db0c85215e06bd160ac35a314969bc18880b794423d"
+  },
+  {
+    "file": "analysis/29_SEH_lab_univariable.R",
+    "sha256": "66f4f023da84ad196734d20a29f5663377d0436a40e62ed19ee90c29a326e142"
+  },
+  {
+    "file": "analysis/30_statistician_baseline_table.py",
+    "sha256": "a1a1ef6b285e5404794de6c2016e366b33d0be00e0ae67b8e0e43b68e2f4df6c"
+  },
+  {
+    "file": "analysis/31_build_statistician_baseline.mjs",
+    "sha256": "01e35ce7b40f7e79b64ab00468d81ea62137daba78367627a483cbbc397fae10"
+  },
+  {
+    "file": "analysis/32_build_statistician_summary.py",
+    "sha256": "7b255640c6c29cdb23430eb376f9fc512c954716103317891acf9116527666ca"
+  },
+  {
+    "file": "analysis/33_audit_metadata_coverage.py",
+    "sha256": "3c3223d6749c663aeafa23b95a11cade3b992d84f8ac911bcd57942299b18dab"
+  },
+  {
+    "file": "analysis/build_step1_notebook.py",
+    "sha256": "a8e063a9e7a2b4fa3a9b07c5f8afb29ec0ab0ae4f1880c27a5aab00c11e16f34"
+  },
+  {
+    "file": "analysis/requirements-cleaning.txt",
+    "sha256": "772dfaea601689968a0223b4af2f9cc6e1b81d34456395bd33e27cecfc9a82da"
+  }
+]
