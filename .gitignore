@@ -1,0 +1,17 @@
+results/
+outputs/
+OPERATE data/
+notebooks/
+analysis/R-library/
+analysis/.venv/
+**/__pycache__/
+*.pyc
+.DS_Store
+*.csv
+*.gz
+*.rds
+*.RData
+*.sav
+*.xlsx
+*.pdf
+*.zip
