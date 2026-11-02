@@ -144,6 +144,22 @@
     "sha256": "66f4f023da84ad196734d20a29f5663377d0436a40e62ed19ee90c29a326e142"
   },
   {
+    "file": "analysis/30_statistician_baseline_table.py",
+    "sha256": "a1a1ef6b285e5404794de6c2016e366b33d0be00e0ae67b8e0e43b68e2f4df6c"
+  },
+  {
+    "file": "analysis/31_build_statistician_baseline.mjs",
+    "sha256": "01e35ce7b40f7e79b64ab00468d81ea62137daba78367627a483cbbc397fae10"
+  },
+  {
+    "file": "analysis/32_build_statistician_summary.py",
+    "sha256": "7b255640c6c29cdb23430eb376f9fc512c954716103317891acf9116527666ca"
+  },
+  {
+    "file": "analysis/33_audit_metadata_coverage.py",
+    "sha256": "3c3223d6749c663aeafa23b95a11cade3b992d84f8ac911bcd57942299b18dab"
+  },
+  {
     "file": "analysis/build_step1_notebook.py",
     "sha256": "a8e063a9e7a2b4fa3a9b07c5f8afb29ec0ab0ae4f1880c27a5aab00c11e16f34"
   },
